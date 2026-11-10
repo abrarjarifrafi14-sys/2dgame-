@@ -1,0 +1,6 @@
+{
+  "name": "Godot Quest: 2D Action Game & Studio",
+  "description": "An action-packed 2D platformer game with built-in Godot 4 engine tutorial and GDScript live inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
